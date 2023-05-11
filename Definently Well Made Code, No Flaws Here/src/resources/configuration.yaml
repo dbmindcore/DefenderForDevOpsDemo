@@ -1,0 +1,6 @@
+http-port: 8082,
+important: true,
+server-password: changeit,
+
+
+another-inner-password: changeme 22

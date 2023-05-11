@@ -1,0 +1,7 @@
+{
+    "important": true,
+    "server-password": "changeit",
+    "not-important": false,
+    "another-inner-password": "changeme",
+    "http-secret-port": 8082
+}
